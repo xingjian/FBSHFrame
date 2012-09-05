@@ -26,7 +26,6 @@
 		<property name="lobHandler" ref="lobHandler" />
 		<property name="annotatedClasses">
 			<list>
-				<value>com.promise.cn.common.domain.PBUser</value>
 			</list>
 		</property>
 		<property name="hibernateProperties">
